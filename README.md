@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
-</p>
 <br>
 
 <p align="left"> 
@@ -87,8 +84,3 @@
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
 
-
------
-Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
-
-Last Edited on: 17/04/2021
